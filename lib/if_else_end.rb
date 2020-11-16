@@ -7,4 +7,3 @@ if true
 else
   puts "Odd!"
 end
-    
